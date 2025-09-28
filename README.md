@@ -57,7 +57,7 @@ Tiingo Stock API (for live stock data)
 
 📦 Installation
 🔹 Clone the Repository
-git clone https://github.com/your-username/stock-trading-simulator.git
+git clone (https://github.com/surjeetkumar8006/EnxtAI)
 cd stock-trading-simulator
 
 🔹 Backend Setup
